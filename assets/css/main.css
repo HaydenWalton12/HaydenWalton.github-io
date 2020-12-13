@@ -117,7 +117,7 @@ input, select, textarea {
 
 	body {
 		background-color: #000000;
-		color: rgba(255, 255, 255, 0.65);
+		color: rgba(0, 0, 0, 0);
 	}
 
 	body, input, select, textarea {
