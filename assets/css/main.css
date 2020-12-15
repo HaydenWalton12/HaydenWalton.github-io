@@ -188,6 +188,8 @@ input, select, textarea {
 			-ms-column-gap: 2em;
 			column-gap: 2em;
 			text-align: justify;
+			
+			color 
 		}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -316,7 +318,7 @@ input, select, textarea {
 	}
 
 	blockquote {
-		border-left-color: rgba(255, 255, 255, 0.35);
+		border-left-color: #FFFFFF;
 	}
 
 	code {
